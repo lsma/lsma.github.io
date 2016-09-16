@@ -43,4 +43,6 @@ body {
 }
 #sidebar {
   flex: 1;
+  background: #ddd;
+  padding: 100px;
 }
