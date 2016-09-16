@@ -59,7 +59,7 @@ body {
 #sidebar {
   flex: 1;
   background: #eee;
-  padding: 100px;
+  padding: 70px 100px;
 }
 
 #sidebar h2 {
