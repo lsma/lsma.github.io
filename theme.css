@@ -1,15 +1,22 @@
-
-.header {
+body {
+  padding:  0;
+  margin: 0;
+}
+.vcontainer {
+  display: flex;
+  flex-flow: column;
+}
+.hcontainer {
+  display: flex;
+  flex-flow: row;
+}
+#header {
   background:  #330066;
   height: 300px;
   padding: 50px;
   text-align: center;
 }
-body {
-  padding:  0;
-  margin: 0;
-}
-.header h1 {
+#header h1 {
   font-size: 72pt;
   color:  #fff;
   font-family: Arial;
