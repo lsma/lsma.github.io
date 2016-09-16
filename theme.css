@@ -63,7 +63,7 @@ body {
 }
 
 #sidebar h2 {
-  margin: 0px;
+  margin: 0px 0px 20px 0px;
   color: #330066;
   font-family: 'Roboto', sans-serif;
   font-size: 24pt;
@@ -71,7 +71,7 @@ body {
 
 .program-item {
   color: #666;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 16pt;
 }
 
