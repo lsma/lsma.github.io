@@ -29,6 +29,7 @@ body {
   color:  #fff;
   font-family: Arial;
   margin: 0;
+  padding: 30px 0;
 }
 #content-box {
   flex: 4;
