@@ -63,7 +63,7 @@ body {
 
 span.showtime {
   display: inline-block;
-  min-width: 50px;
+  min-width: 100px;
   color: #330066;
   font-family: 'Roboto', sans-serif;
   font-size: 16pt;
