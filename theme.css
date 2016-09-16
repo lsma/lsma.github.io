@@ -39,7 +39,12 @@ body {
   padding: 0;
 }
 #content-box {
-  flex: 3;
+  position: absolute;
+  height: 100%;
+  left: 0;
+  top: 0;
+  bottom: -28;
+  right: 400px;
 }
 .table {
   display: table;
@@ -54,18 +59,9 @@ body {
   max-height: 100%;
   margin: auto;
 }
-.relbox {
-    position: relative;
-    height: 100%;
-}
 #slideshow {
-  max-width: 100%;
-  max-height: 100%;
-  position: absolute;
-  top: 0px;
-  left: 0px;
-  bottom: 0px;
-  right: 0px;
+  height: 100%;
+  width: 100%;
 }
 
 #sidebar {
@@ -75,6 +71,8 @@ body {
   top: 0px;
   bottom: 0px;
   right: 0px;
+  width: 400px;
+  box-sizing: padding-box;
 }
 
 #sidebar h2 {
