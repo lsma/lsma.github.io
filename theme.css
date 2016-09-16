@@ -52,9 +52,18 @@ body {
   max-height: 100%;
   margin: auto;
 }
+.relbox {
+    position: relative;
+    height: 100%;
+}
 #slideshow {
   max-width: 100%;
   max-height: 100%;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  bottom: 0px;
+  right: 0px;
 }
 
 #sidebar {
