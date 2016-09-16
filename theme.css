@@ -54,3 +54,17 @@ body {
   color: #330066;
   font-family: 'Roboto', sans-serif;
 }
+
+.program-item {
+  color: #666;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16pt;
+}
+
+span.showtime {
+  min-width: 50px;
+  color: #330066;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16pt;
+  font-weight: bold;
+}
