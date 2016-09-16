@@ -58,7 +58,7 @@ body {
 }
 
 #sidebar {
-  flex: 1;
+  /*flex: 1;*/
   background: #eee;
   padding: 20px 30px;
 }
