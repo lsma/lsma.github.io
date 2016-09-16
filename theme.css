@@ -36,7 +36,6 @@ body {
 }
 #content-box {
   flex: 4;
-  position: absolute;
 }
 #content-box img {
   max-width: 100%;
