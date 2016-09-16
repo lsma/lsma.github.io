@@ -27,6 +27,10 @@ body {
   flex: 4;
   position: absolute;
 }
+#content-box img {
+  width: 100px;
+  height: 100px;
+}
 #sidebar {
   flex: 1;
 }
