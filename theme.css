@@ -24,10 +24,9 @@ body {
 }
 #header {
   background:  #330066;
-  min-height: 300px;
-  max-height: 600px;
+  max-height: 300px;
   width: 100%;
-  padding: 50px 0;
+  padding: 30px 0 40px 0;
   text-align: center;
 }
 #header h1 {
@@ -35,7 +34,7 @@ body {
   color:  #fff;
   font-family: 'Roboto', sans-serif;
   margin: 0;
-  padding: 30px 0;
+  padding: 0;
 }
 #content-box {
   flex: 3;
