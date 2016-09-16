@@ -24,7 +24,7 @@ body {
   background:  #330066;
   min-height: 300px;
   width: 100%;
-  padding: 50px;
+  padding: 50px 0;
   text-align: center;
 }
 #header h1 {
