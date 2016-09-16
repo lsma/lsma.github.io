@@ -40,7 +40,6 @@ body {
 }
 #content-box {
   position: absolute;
-  height: 100%;
   left: 0;
   top: 0;
   bottom: -28px;
