@@ -8,14 +8,17 @@ body {
   left: 0;
   bottom: 0;
   right: 0;
+  overflow: hidden;
 }
 .vcontainer {
   display: flex;
   flex-flow: column;
+  position: relative;
 }
 .hcontainer {
   display: flex;
   flex-flow: row;
+  position: relative;
 }
 #header {
   background:  #330066;
