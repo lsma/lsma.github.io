@@ -46,7 +46,7 @@ body {
 }
 #sidebar {
   flex: 1;
-  background: #ddd;
+  background: #eee;
   padding: 100px;
 }
 
@@ -54,6 +54,7 @@ body {
   margin: 0px;
   color: #330066;
   font-family: 'Roboto', sans-serif;
+  font-size: 24pt;
 }
 
 .program-item {
