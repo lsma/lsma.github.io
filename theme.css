@@ -12,7 +12,8 @@ body {
 }
 #header {
   background:  #330066;
-  height: 300px;
+  min-height: 300px;
+  width: 100%;
   padding: 50px;
   text-align: center;
 }
