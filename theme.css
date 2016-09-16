@@ -31,14 +31,14 @@ body {
   text-align: center;
 }
 #header h1 {
-  font-size: 72pt;
+  font-size: 54pt;
   color:  #fff;
   font-family: 'Roboto', sans-serif;
   margin: 0;
   padding: 30px 0;
 }
 #content-box {
-  flex: 4;
+  flex: 3;
 }
 .table {
   display: table;
