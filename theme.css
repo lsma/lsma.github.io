@@ -30,9 +30,10 @@ body {
   width: 100%;
   padding: 30px 0 40px 0;
   text-align: center;
+  z-index: 3;
 }
 #header h1 {
-  font-size: 54pt;
+  font-size: 72pt;
   color:  #fff;
   font-family: 'Roboto', sans-serif;
   margin: 0;
@@ -40,10 +41,11 @@ body {
 }
 #content-box {
   position: absolute;
-  left: 0;
-  top: 0;
-  bottom: -28px;
+  left: -1px;
+  top: -1px;
+  bottom: -30px;
   right: 390px;
+  z-index: 2;
 }
 .table {
   display: table;
@@ -72,6 +74,7 @@ body {
   right: 0px;
   width: 400px;
   box-sizing: padding-box;
+  z-index: 3;
 }
 
 #sidebar h2 {
