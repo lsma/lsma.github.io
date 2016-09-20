@@ -73,7 +73,7 @@ body {
   bottom: 0px;
   right: 0px;
   width: 400px;
-  box-sizing: padding-box;
+  box-sizing: border-box;
   z-index: 3;
 }
 
