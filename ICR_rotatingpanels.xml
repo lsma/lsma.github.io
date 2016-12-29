@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <panels>
   <item>
+      <image>http://i.imgur.com/u06iAhL.png</image>
+      <url>http://www.iowacatholicradio.com/donate.html</url>
+      <redirect>n</redirect>
+  </item>
+  <item>
     <image>http://i.imgur.com/9jsuPSZ.png</image>
     <url>http://www.blessmanministries.org/</url>
     <redirect>n</redirect>
@@ -8,11 +13,6 @@
   <item>
       <image>http://i.imgur.com/M2gQIH1.png</image>
       <url>https://thetitleresourcenetwork.com/</url>
-      <redirect>n</redirect>
-  </item>
-  <item>
-      <image>http://i.imgur.com/ACClLPr.png</image>
-      <url>http://www.iowacatholicradio.com/donate.html</url>
       <redirect>n</redirect>
   </item>
 </panels>
